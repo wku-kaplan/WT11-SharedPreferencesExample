@@ -3,4 +3,5 @@
     <string name="name_input">Input name here</string>
     <string name="input_score">Input high score here</string>
     <string name="save">Save!</string>
+    <string name="music">Music?</string>
 </resources>
